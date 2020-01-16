@@ -1,0 +1,12 @@
+.content {
+    /*text-align: center;*/
+    display: block;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid black;
+    top: 10px;
+}
+
+.customHeader {
+    background-color: lightyellow !important;
+}

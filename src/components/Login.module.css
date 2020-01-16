@@ -1,0 +1,79 @@
+.parentcontainer {
+    height: 100vh;
+}
+
+.maincontent {
+    height: 100%;
+    padding: 0 !important;
+    border: none !important;
+}
+
+.signinheader {
+    min-height: 84px;
+    display: flex;
+    align-items: center;
+    padding: 0 24px;
+    justify-content: space-between;
+}
+
+.signupdiv {
+    display: flex;
+    align-items: center;
+}
+
+.accspan {
+    padding-right: 12px;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    color: #61666b;
+}
+
+.signinform {
+    max-width: 384px;
+    margin: 0 auto;
+}
+
+.chkbox {
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+}
+
+.signinlabel {
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+}
+
+.forgotPassword {
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    color: #61666b;
+    float: right;
+}
+
+.signinbtn {
+    background-color: #0c7bb3 !important;
+    font-size: 14px !important;
+    font-weight: normal !important;
+    font-stretch: normal !important;
+    font-style: normal !important;
+    line-height: 1.43 !important;
+    letter-spacing: normal !important;
+    text-align: center !important;
+    color: #ffffff !important;
+}
